@@ -92,7 +92,7 @@ if temperature >30:
     print("Drink plenty of water")  
 elif temperature >20 and temperature <=30:
     print("It's a nice day")        
-elif temperature >20 or temperature <=30:
+elif temperature >10 or temperature <=20:
     print("It's a bit cold")    
 elif not(temperature >0 and temperature <=10):
     print("It's cold")

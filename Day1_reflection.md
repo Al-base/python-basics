@@ -9,3 +9,5 @@ What input/output means — communicating with the user.
 How data types behave (str, int, etc.).
 
 How to use Git and GitHub professionally.
+
+github was new for me and took themust of the time
