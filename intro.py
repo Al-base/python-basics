@@ -1,5 +1,6 @@
 import math
-print("ali")
+import time
+"""print("ali")
 Firat_name ="Ali"
 Last_name = "Deeb"
 Full_name = Firat_name +' '+ Last_name
@@ -77,24 +78,4 @@ website = "http://www.abc.com"
 slice = slice(7,-4)
 sliced_website = website[slice]
 print(sliced_website)
-age4 = int(input("Enter your age : "))
-if age4 >=18 and age4 <100:
-    print("You are adult")  
-elif age4 <0 : 
-    print("Invalid age")
-elif age4 ==100:
-    print("You are centenarian")
-else:
-    print("You are a child")
-temperature = int(input("Enter the temperature : "))
-if temperature >30:
-    print("It's a hot day")
-    print("Drink plenty of water")  
-elif temperature >20 and temperature <=30:
-    print("It's a nice day")        
-elif temperature >10 or temperature <=20:
-    print("It's a bit cold")    
-elif not(temperature >0 and temperature <=10):
-    print("It's cold")
-else:
-    print("It's freezing cold")
+"""
